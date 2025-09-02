@@ -64,7 +64,7 @@
 <br/><br/>
 
 ###  NLP, LLMs & Knowledge Graphs
-- Working with **OpenAI API**, **LangChain**, **Pinecone** for embeddings and semantic retrieval.  
+- Working with **OpenAI API**, **LangChain**, **QDrant** for embeddings and semantic retrieval.  
 - Knowledge graphs using **RDF/SPARQL** concepts to structure and query data.  
 - Working with **Ollama** for local LLM inference and fast iteration.  
 - Building applications around **semantic search, PDF summarization, QA systems** using graph-based approaches.
