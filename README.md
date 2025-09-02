@@ -31,15 +31,14 @@
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
-|--------|-------------|
-| **PDFInsight** | AI-driven PDF processing (NLP, embeddings, semantic search, summarization) :contentReference[oaicite:1]{index=1} |
-| **PSI19J_M16_2219137_RonaldoRibalonga** | Academic project — check it out! :contentReference[oaicite:2]{index=2} |
-| **PSI1619J_RonaldoRibalonga_2219137** | Another school project from the series. :contentReference[oaicite:3]{index=3} |
-| **PAP_Ronaldo_Ribalonga** | Academic work. :contentReference[oaicite:4]{index=4} |
-
+|---------|-------------|
+| [**PDFInsight**](https://github.com/PDF-Insight/PDFInsight) | AI-driven PDF processing (NLP, embeddings, semantic search, summarization). |
+| [**PSI19J_M16_2219137_RonaldoRibalonga**](https://github.com/RunaldoVI/PSI19J_M16_2219137_RonaldoRibalonga) | Academic project — check it out! |
+| [**PSI1619J_RonaldoRibalonga_2219137**](https://github.com/RunaldoVI/PSI1619J_RonaldoRibalonga_2219137) | Another academic project from the series. |
+| [**PAP_Ronaldo_Ribalonga**](https://github.com/RunaldoVI/PAP_Ronaldo_Ribalonga) | Academic work and portfolio project. |
 ---
 
 ##  Skills & Interests
