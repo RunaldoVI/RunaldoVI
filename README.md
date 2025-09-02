@@ -33,7 +33,7 @@
 | **PDFInsight** | AI-driven PDF processing (NLP, embeddings, semantic search, summarization) :contentReference[oaicite:1]{index=1} |
 | **PSI19J_M16_2219137_RonaldoRibalonga** | Academic project — check it out! :contentReference[oaicite:2]{index=2} |
 | **PSI1619J_RonaldoRibalonga_2219137** | Another school project from the series. :contentReference[oaicite:3]{index=3} |
-| **PAP_Ronaldo_Ribalonga** | Academic work / portfolio-related repository. :contentReference[oaicite:4]{index=4} |
+| **PAP_Ronaldo_Ribalonga** | Academic work. :contentReference[oaicite:4]{index=4} |
 
 ---
 
