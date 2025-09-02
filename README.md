@@ -15,8 +15,13 @@
       src="https://custom-icon-badges.demolab.com/github/followers/RunaldoVI?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
     />
   </a>
+  <a href="https://www.linkedin.com/in/ronaldo-ribalonga-190a03233/">
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
 </p>
-
 ---
 
 ## 🙋‍♂️ About Me
